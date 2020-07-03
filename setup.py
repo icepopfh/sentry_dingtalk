@@ -21,17 +21,17 @@ tests_require = [
 ]
 
 install_requires = [
-    'sentry>=10.0.0',
+    'sentry>=9.1.2',
 ]
 
 
 setup(
-    name='sentry-dingtalk-new',
-    version='1.2.0',
+    name='sentry-dingtalk',
+    version='1.0.0',
     keywords='sentry dingding dingtalk',
-    author='ZhangShiJie',
-    author_email='zhangshijie62302@offcn.com',
-    url='https://github.com/zhangshj/sentry-dingtalk.git',
+    author='icepopfh',
+    author_email='icepopfh@163.com',
+    url='https://github.com/icepopfh/sentry_dingtalk.git',
     description='A Sentry extension which integrates with Dingtalk robot.',
     long_description=__doc__,
     long_description_content_type='text/markdown',

@@ -80,7 +80,7 @@ class DingtalkPlugin(notify.NotificationPlugin):
     author = 'icepopfh'
     author_url = 'https://github.com/icepopfh/sentry_dingtalk.git'
     version = sentry.VERSION
-    description = "Integrates dingtalk robot(szzsmw customized version)"
+    description = "Integrates dingtalk robot"
     resource_links = [
         ('Bug Tracker', 'https://github.com/icepopfh/sentry_dingtalk.git'),
         ('Source', 'https://github.com/icepopfh/sentry_dingtalk.git'),
